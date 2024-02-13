@@ -96,22 +96,22 @@
     {
       "name": "HTML",
       "keywords": [
-        "Desarrollo Web",
+        "Web Development",
         "Frontend"
       ]
     },
     {
       "name": "CSS",
       "keywords": [
-        "Desarrollo Web",
+        "Web Development",
         "Frontend",
-        "Diseño Responsive"
+        "Responsive Design"
       ]
     },
     {
       "name": "JavaScript",
       "keywords": [
-        "Desarrollo Web",
+        "Web Development",
         "Frontend",
         "Backend",
         "Fullstack"
@@ -120,16 +120,16 @@
     {
       "name": "TailwindCSS",
       "keywords": [
-        "Desarrollo Web",
+        "Web Development",
         "Frontend",
         "CSS Framework",
-        "Diseño Responsive"
+        "Responsive Design"
       ]
     },
     {
       "name": "TypeScript",
       "keywords": [
-        "Desarrollo Web",
+        "Web Development",
         "Frontend",
         "Backend",
         "JavaScript Superset"
@@ -138,34 +138,50 @@
     {
       "name": "Node.js",
       "keywords": [
-        "Desarrollo Web",
+        "Web Development",
         "Backend",
         "JavaScript",
-        "Servidor"
+        "Server"
+      ]
+    },
+    {
+      "name": "Express.js",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "JavaScript",
+        "Server"
+      ]
+    },
+    {
+      "name": "SQL",
+      "keywords": [
+        "Databases",
+        "SQL",
+        "Backend"
       ]
     },
     {
       "name": "MySQL",
       "keywords": [
-        "Bases de Datos",
+        "Databases",
         "SQL",
-        "Almacenamiento de Datos",
         "Backend"
       ]
     },
     {
       "name": "Git",
       "keywords": [
-        "Control de Versiones",
-        "Colaboración",
-        "Código Fuente",
+        "Version Control",
+        "Colaboration",
+        "Source Code",
         "Git"
       ]
     },
     {
       "name": "Next.js",
       "keywords": [
-        "Desarrollo Web",
+        "Web Development",
         "Frontend",
         "React Framework",
         "SSR",
@@ -175,10 +191,36 @@
     {
       "name": "React",
       "keywords": [
-        "Desarrollo Web",
+        "Web Development",
         "Frontend",
         "JavaScript Library",
         "UI"
+      ]
+    },
+    {
+      "name": "Astro",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "SSR",
+        "JavaScript Framework",
+        "UI"
+      ]
+    },
+    {
+      "name": "Notion",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "SSR",
+        "JavaScript Framework",
+        "UI"
+      ]
+    },
+    {
+      "name": "Visual Studio Code",
+      "keywords": [
+        "Code Editor"
       ]
     }
   ],
@@ -237,36 +279,88 @@
         "Maneja tu tiempo"
       ],
       "url": "https://zenchrono.netlify.app/"
-    },
+    }
+  ],
+  "practiceProjects": [
     {
-      "name": "ZenChrono",
-      "isActive": false,
+      "name": "Tasks CRUD",
+      "isActive": true,
       "description": "This is a project for managing time",
       "highlights": [
-        "En desarrollo",
-        "Maneja tu tiempo"
+        "React",
+        "CRUD",
+        "Tasks list"
       ],
-      "url": "https://zenchrono.netlify.app/"
+      "url": "https://tasks-list-react-tl.netlify.app/",
+      "repositoryUrl": "https://github.com/Juancho7/tasks-crud-react"
     },
     {
-      "name": "ZenChrono",
-      "isActive": false,
-      "description": "This is a project for managing time",
+      "name": "Frontend Mentor Challenges",
+      "isActive": true,
+      "description": "These are some Frontend Mentor challenges",
       "highlights": [
-        "En desarrollo",
-        "Maneja tu tiempo"
+        "Astro",
+        "Challenges"
       ],
-      "url": "https://zenchrono.netlify.app/"
+      "url": "https://frontend-mentor-challenges-astro.netlify.app/",
+      "repositoryUrl": "https://github.com/Juancho7/frontend-mentor-challenges-astro"
     },
     {
-      "name": "ZenChrono",
+      "name": "Tesla Landing Page Clon",
       "isActive": false,
-      "description": "This is a project for managing time",
+      "description": "This is a clon of the Tesla landing page",
       "highlights": [
-        "En desarrollo",
-        "Maneja tu tiempo"
+        "Astro",
+        "Clon",
+        "Tesla Landing Page"
       ],
-      "url": "https://zenchrono.netlify.app/"
+      "url": "https://github.com/Juancho7/tesla-landing-page-clon",
+      "repositoryUrl": "https://github.com/Juancho7/tesla-landing-page-clon"
+    },
+    {
+      "name": "Tasks CRUD",
+      "isActive": false,
+      "description": "This is a tasks crud that I made for learning and pracicing Nextjs",
+      "highlights": [
+        "Nextjs",
+        "React",
+        "CRUD",
+        "Tasks list"
+      ],
+      "url": "https://github.com/Juancho7/crud-nextjs-mongodb",
+      "repositoryUrl": "https://github.com/Juancho7/crud-nextjs-mongodb"
+    },
+    {
+      "name": "Book Store",
+      "isActive": false,
+      "description": "This is a books crud that I made for learning and pracicing MERN Stack",
+      "highlights": [
+        "MERN Stack",
+        "React",
+        "MongoDB",
+        "NodeJS",
+        "Express",
+        "CRUD",
+        "Book Store"
+      ],
+      "url": "https://github.com/Juancho7/book-store-mern",
+      "repositoryUrl": "https://github.com/Juancho7/book-store-mern"
+    },
+    {
+      "name": "Book Store",
+      "isActive": false,
+      "description": "This is a books crud that I made for learning and pracicing MERN Stack",
+      "highlights": [
+        "MERN Stack",
+        "React",
+        "MongoDB",
+        "NodeJS",
+        "Express",
+        "CRUD",
+        "Book Store"
+      ],
+      "url": "https://github.com/Juancho7/book-store-mern",
+      "repositoryUrl": "https://github.com/Juancho7/book-store-mern"
     }
   ]
 }
