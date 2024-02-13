@@ -1,0 +1,272 @@
+{
+  "basics": {
+    "name": "Juan Fernando Ordoñez Martinez",
+    "label": "Software Development Technologist and Junior Full Stack Developer.",
+    "image": "/my_photo.png",
+    "email": "juanfertrom@gmail.com",
+    "phone": "+57 3207313327",
+    "url": "https://www.linkedin.com/in/juan-fernando-ordo%C3%B1ez-martinez-752297264/",
+    "summary": "A committed person, responsible, and lifelong learner. I am guided by discipline and honesty. I have a spirit of leadership and keep calm when working under pressure. I relate easily to working as a team to accomplish the institution's goals.",
+    "location": {
+      "address": "",
+      "postalCode": "190002",
+      "city": "Popayán",
+      "countryCode": "CO",
+      "region": "Colombia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Juan Fernando Ordoñez Martinez",
+        "url": "https://www.linkedin.com/in/juan-fernando-ordo%C3%B1ez-martinez-752297264/"
+      },
+      {
+        "network": "GitHub",
+        "username": "Juancho7",
+        "url": "https://github.com/Juancho7"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": null,
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Colegio Mayor Del Cauca",
+      "url": "https://unimayor.edu.co/web/",
+      "area": "Softtware Development Technologist",
+      "studyType": "Technologist",
+      "startDate": "2019",
+      "endDate": "2022",
+      "score": "",
+      "courses": [
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "certificates": [
+    {
+      "name": "",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "url": "",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "TailwindCSS",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node.js",
+      "keywords": [
+        "Desarrollo Web",
+        "Backend",
+        "JavaScript",
+        "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "",
+      "keywords": [
+        "",
+        ""
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "",
+      "reference": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "ZenChrono",
+      "isActive": true,
+      "description": "This is a project for managing time",
+      "highlights": [
+        "En desarrollo",
+        "Maneja tu tiempo"
+      ],
+      "url": "https://zenchrono.netlify.app/"
+    },
+    {
+      "name": "ZenChrono",
+      "isActive": false,
+      "description": "This is a project for managing time",
+      "highlights": [
+        "En desarrollo",
+        "Maneja tu tiempo"
+      ],
+      "url": "https://zenchrono.netlify.app/"
+    },
+    {
+      "name": "ZenChrono",
+      "isActive": false,
+      "description": "This is a project for managing time",
+      "highlights": [
+        "En desarrollo",
+        "Maneja tu tiempo"
+      ],
+      "url": "https://zenchrono.netlify.app/"
+    },
+    {
+      "name": "ZenChrono",
+      "isActive": false,
+      "description": "This is a project for managing time",
+      "highlights": [
+        "En desarrollo",
+        "Maneja tu tiempo"
+      ],
+      "url": "https://zenchrono.netlify.app/"
+    },
+    {
+      "name": "ZenChrono",
+      "isActive": false,
+      "description": "This is a project for managing time",
+      "highlights": [
+        "En desarrollo",
+        "Maneja tu tiempo"
+      ],
+      "url": "https://zenchrono.netlify.app/"
+    },
+    {
+      "name": "ZenChrono",
+      "isActive": false,
+      "description": "This is a project for managing time",
+      "highlights": [
+        "En desarrollo",
+        "Maneja tu tiempo"
+      ],
+      "url": "https://zenchrono.netlify.app/"
+    }
+  ]
+}
