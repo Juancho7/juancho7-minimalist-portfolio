@@ -84,8 +84,8 @@ const printInfo = [email, phone, linkedinUrl].filter(Boolean).join(" • ");
   .container {
     display: flex;
     flex-direction: row;
-    align-items: center;
     justify-content: space-between;
+    align-items: center;
     gap: 1rem;
   }
 
@@ -94,51 +94,51 @@ const printInfo = [email, phone, linkedinUrl].filter(Boolean).join(" • ");
   }
 
   h2 {
-    color: #444;
     font-weight: 500;
     font-size: 1.1rem;
     text-wrap: balance;
+    color: #444;
   }
 
   img {
-    aspect-ratio: 1 / 1;
-    object-fit: cover;
     width: 128px;
     border-radius: 16px;
+    object-fit: cover;
+    aspect-ratio: 1 / 1;
   }
 
   span {
-    color: #666;
     display: flex;
     align-items: center;
     gap: 0.25rem;
     font-size: 0.85rem;
     letter-spacing: -0.05rem;
+    color: #666;
   }
 
   footer {
-    color: #555;
-    font-size: 0.65rem;
+    margin-top: 8px;
     display: flex;
     gap: 4px;
-    margin-top: 8px;
+    font-size: 0.65rem;
+    color: #555;
   }
 
   footer a {
-    color: #777;
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
+    width: 32px;
+    height: 32px;
     border: 1px solid #eee;
     padding: 4px;
-    height: 32px;
-    width: 32px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    color: #777;
     border-radius: 6px;
     transition: all 0.3s ease;
   }
 
   footer a:hover {
-    background-color: #eee;
     border: 1px solid #ddd;
+    background-color: #eee;
   }
 </style>
