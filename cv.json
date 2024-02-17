@@ -77,10 +77,39 @@
   ],
   "certificates": [
     {
-      "name": "",
-      "date": "",
-      "issuer": "",
-      "url": ""
+      "name": "HTML5 desde cero Edición 2020",
+      "date": "19-05-2022",
+      "issuer": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-dda7abe1-b50c-476d-8197-c9f796288719/",
+      "duration": "6 Hours"
+    },
+    {
+      "name": "Desarrollo web. CSS desde cero. Edición 2020",
+      "date": "05-09-2022",
+      "issuer": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-a6d46140-94a0-4175-98cb-c8354d25416d/",
+      "duration": "17.5 Hours"
+    },
+    {
+      "name": "Universidad Desarrollo Web - FrontEnd Web Developer!",
+      "date": "17-10-2022",
+      "issuer": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-41afc6be-ac3d-419a-aa77-2cb9a0b60c07/",
+      "duration": "30.5 Hours"
+    },
+    {
+      "name": "Tailwind CSS: Fundamentos",
+      "date": "14-10-2023",
+      "issuer": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-bcc7bcfb-4ce1-4d97-8277-37e9d16dc689/",
+      "duration": "2 Hours"
+    },
+    {
+      "name": "Git y GitHub 100% Práctico",
+      "date": "06-02-2022",
+      "issuer": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-bb5f9e0d-aee6-4a7d-b385-c3e9fcadaf86/",
+      "duration": "1 Hour"
     }
   ],
   "publications": [
