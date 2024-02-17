@@ -347,20 +347,18 @@
       "repositoryUrl": "https://github.com/Juancho7/book-store-mern"
     },
     {
-      "name": "Book Store",
+      "name": "JavaScript Quiz",
       "isActive": false,
-      "description": "This is a books crud that I made for learning and pracicing MERN Stack",
+      "description": "This is a JavaScript Quiz that I made for learning Zustand and Material UI",
       "highlights": [
-        "MERN Stack",
         "React",
-        "MongoDB",
-        "NodeJS",
-        "Express",
-        "CRUD",
-        "Book Store"
+        "Zustand",
+        "Material UI",
+        "Typescript",
+        "JavaScript Quiz"
       ],
-      "url": "https://github.com/Juancho7/book-store-mern",
-      "repositoryUrl": "https://github.com/Juancho7/book-store-mern"
+      "url": "https://github.com/Juancho7/javascript-quiz",
+      "repositoryUrl": "https://github.com/Juancho7/javascript-quiz"
     }
   ]
 }
