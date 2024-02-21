@@ -360,7 +360,7 @@
       "repositoryUrl": "https://github.com/Juancho7/tesla-landing-page-clon"
     },
     {
-      "name": "Tasks CRUD",
+      "name": "SSR Tasks CRUD",
       "isActive": false,
       "description": "This is a tasks crud that I made for learning and pracicing Nextjs",
       "highlights": [
@@ -401,6 +401,33 @@
       ],
       "url": "https://github.com/Juancho7/javascript-quiz",
       "repositoryUrl": "https://github.com/Juancho7/javascript-quiz"
+    },
+    {
+      "name": "Rest API",
+      "isActive": false,
+      "description": "This is a Rest API that I made for learning Prisma ORM",
+      "highlights": [
+        "Prisma",
+        "NodeJS",
+        "Rest API",
+        "Backend",
+        "ORM"
+      ],
+      "url": "https://github.com/Juancho7/restapi-node-prisma",
+      "repositoryUrl": "https://github.com/Juancho7/restapi-node-prisma"
+    },
+    {
+      "name": "Rest API With TypeScript",
+      "isActive": false,
+      "description": "This is a Rest API that I made for learning how to set up TypeScrip with Node.js",
+      "highlights": [
+        "NodeJS",
+        "Rest API",
+        "Backend",
+        "TypeScript"
+      ],
+      "url": "https://github.com/Juancho7/apirest-express-typescript",
+      "repositoryUrl": "https://github.com/Juancho7/apirest-express-typescript"
     }
   ]
 }
