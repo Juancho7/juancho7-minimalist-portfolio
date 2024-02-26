@@ -293,34 +293,15 @@
   ],
   "projects": [
     {
-      "name": "ZenChrono",
+      "name": "Frontend Mentor Challenges",
       "isActive": true,
-      "description": "This is a project for managing time",
+      "description": "These are some Frontend Mentor challenges",
       "highlights": [
-        "En desarrollo",
-        "Maneja tu tiempo"
+        "Astro",
+        "Challenges"
       ],
-      "url": "https://zenchrono.netlify.app/"
-    },
-    {
-      "name": "ZenChrono",
-      "isActive": false,
-      "description": "This is a project for managing time",
-      "highlights": [
-        "En desarrollo",
-        "Maneja tu tiempo"
-      ],
-      "url": "https://zenchrono.netlify.app/"
-    },
-    {
-      "name": "ZenChrono",
-      "isActive": false,
-      "description": "This is a project for managing time",
-      "highlights": [
-        "En desarrollo",
-        "Maneja tu tiempo"
-      ],
-      "url": "https://zenchrono.netlify.app/"
+      "url": "https://frontend-mentor-challenges-astro.netlify.app/",
+      "repositoryUrl": "https://github.com/Juancho7/frontend-mentor-challenges-astro"
     }
   ],
   "practiceProjects": [
@@ -335,17 +316,6 @@
       ],
       "url": "https://tasks-list-react-tl.netlify.app/",
       "repositoryUrl": "https://github.com/Juancho7/tasks-crud-react"
-    },
-    {
-      "name": "Frontend Mentor Challenges",
-      "isActive": true,
-      "description": "These are some Frontend Mentor challenges",
-      "highlights": [
-        "Astro",
-        "Challenges"
-      ],
-      "url": "https://frontend-mentor-challenges-astro.netlify.app/",
-      "repositoryUrl": "https://github.com/Juancho7/frontend-mentor-challenges-astro"
     },
     {
       "name": "Tesla Landing Page Clon",
