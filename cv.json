@@ -428,6 +428,32 @@
       ],
       "url": "https://github.com/Juancho7/apirest-express-typescript",
       "repositoryUrl": "https://github.com/Juancho7/apirest-express-typescript"
+    },
+    {
+      "name": "Rest API With PostgreSQL",
+      "isActive": false,
+      "description": "This is a Rest API that I made for learning how to work with PostgreSQL, TypeScript and Node.js.",
+      "highlights": [
+        "NodeJS",
+        "Rest API",
+        "Backend",
+        "TypeScript",
+        "PostgreSQL"
+      ],
+      "url": "https://github.com/Juancho7/restapi-node-postgresql-ts",
+      "repositoryUrl": "https://github.com/Juancho7/restapi-node-postgresql-ts"
+    },
+    {
+      "name": "Expense Tracker",
+      "isActive": false,
+      "description": "This is an expense tracker that I made for practicing React and TypeScript.",
+      "highlights": [
+        "React",
+        "Frontend",
+        "TypeScript"
+      ],
+      "url": "https://github.com/Juancho7/expense-tracker-react-ts",
+      "repositoryUrl": "https://github.com/Juancho7/expense-tracker-react-ts"
     }
   ]
 }
